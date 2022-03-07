@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gbrayn&label=Profile%20views&color=0e75b6&style=flat" alt="gbrayn" /> </p>
 
-- 🔭 I’m currently working on **my graduation project called Go Market**
-
 - 🌱 I’m currently learning **Typescript, Node.js and Next.js**
 
 - 📫 How to reach me **gustavo.augusto.brayn@gmail.com**
